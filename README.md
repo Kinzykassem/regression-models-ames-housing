@@ -56,12 +56,14 @@ regression-models-ames-housing/
 │   └── ames.csv
 └── models/
     └── 04_ridge.joblib
+```
 
 ## 💻 Run Locally
 
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+```
 
 ## 📓 Training Notebook
 
